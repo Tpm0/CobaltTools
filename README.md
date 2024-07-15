@@ -12,5 +12,5 @@ A collection of experimental tools used to help aid my journey to become a bette
 3. bianarytodec(string: a) returns: int | 
    work in progress
 
-4. dectobianary(int: a) returns: string| 
+4. dectobianary(int: a) returns: string | 
    work in progress
