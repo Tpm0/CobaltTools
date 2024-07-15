@@ -1,5 +1,5 @@
 
-num =4000
+num = 523
 
 
 
@@ -49,6 +49,8 @@ def dectohex(a):
     tmp = 0
     tmpar = []
     result = ""
+    if a < 16:
+        return (hexdict[a])
     #decimal to hex in array
     while True:
         
@@ -74,8 +76,7 @@ def dectohex(a):
         return(result)
 
 def main():
-    a = dectohex(num)
-    print(a)
+    print(dectohex(num))
 #
     
 main()
