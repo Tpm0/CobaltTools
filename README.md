@@ -9,8 +9,8 @@ A collection of experimental tools used to help aid my journey to become a bette
 2. hextodec(string: a) returns: int | 
    it will turn a string hex value to decimal and return as a int
    
-3. bianarytodec(string: a) returns: int | 
+3. bianarytodec(int: a) returns: int | 
    work in progress
 
-4. dectobianary(int: a) returns: string | 
+4. dectobianary(int: a) returns: int | 
    work in progress
